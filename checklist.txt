@@ -1,0 +1,23 @@
+UI - HTML/CSS
+-Needs a title
+-3x3 grid
+    -grid has to be clickable
+    -grid has to indicate the correct player
+-Display message for current player turn
+    -Shows who won the game
+    -draw
+    -cpu player?
+-restart button
+
+Gameflow/JS
+-track clicks
+-check if valid move has been made
+    -track if a cell has already been clicked
+-update game state
+-validate game state
+    -if someone has one
+-if game ended in a draw
+-stop game or change player
+-update UI to reflect game
+-repeat
+
